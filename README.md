@@ -8,5 +8,5 @@ The core functionalities are implemented using JavaScript, enabling dynamic cont
 <b>2. API Integration:</b> The website fetches data from a recipe API, retrieving detailed recipe information, including ingredients, cooking steps, and preparation time.
 <br>
 <b>3. Interactive Display:</b> The search results are displayed in an intuitive format, featuring images, descriptions, and direct links to full recipes.
-<h4>Deployed link of project</h4>
+<h3>Deployed link of project :</h3>
 <a href="https://enugutalamonika.github.io/RecipeFinder/">Project Live</a>
